@@ -1,2 +1,2 @@
-# GoMiles
-Website for GoMiles Company Ltd.
+# Amry Tech
+Website for Amry Tech Company Ltd.
